@@ -16,9 +16,9 @@ Source Caffe codes are at [here](https://github.com/hujie-frank/SENet)
 
 If you use Squeeze-and-Excitation Networks in your research, please cite the paper:
 
-  @article{hu2017,
-    title={Squeeze-and-Excitation Networks},
-    author={Jie Hu and Li Shen and Gang Sun},
-    journal={arXiv preprint arXiv:1709.01507},
-    year={2017}
-  }
+    @article{hu2017,
+      title={Squeeze-and-Excitation Networks},
+      author={Jie Hu and Li Shen and Gang Sun},
+      journal={arXiv preprint arXiv:1709.01507},
+      year={2017}
+    }
